@@ -1,4 +1,5 @@
 # POAPathon-Challenge-1---OG-Farmers
+![Image](https://github.com/rob-lw/POAPathon-Challenge-1---OG-Farmers/blob/main/POAPathon%20Challenge%201%20-%20OG%20Farmers.png)
 
 # Prize Title
 > OG Farmer POAP
